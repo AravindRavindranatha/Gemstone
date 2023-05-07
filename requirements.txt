@@ -4,5 +4,6 @@ Flask
 ipykernel
 matplotlib
 seaborn
+typing
 
 -e .
