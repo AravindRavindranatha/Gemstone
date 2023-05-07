@@ -5,5 +5,5 @@ ipykernel
 matplotlib
 seaborn
 typing
-
+scikit-learn
 -e .
